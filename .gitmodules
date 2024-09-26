@@ -1,0 +1,3 @@
+[submodule "homepage-yandex"]
+	path = homepage-yandex
+	url = git@github.com:eoan-ermine/homepage-yandex.git
